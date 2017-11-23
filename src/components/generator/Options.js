@@ -259,7 +259,7 @@ class Options extends Component {
                     </span>
                 </div>
                 <div className="row">
-                    {this.renderModelSelector()}
+                    {/*this.renderModelSelector()*/}
                 </div>
                 <div className="row">
                     {this.renderAllOptions()}
